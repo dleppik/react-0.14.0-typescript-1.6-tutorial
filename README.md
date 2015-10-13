@@ -5,6 +5,8 @@ This is a quick and dirty rewrite of parts of the [React Tutorial](http://facebo
 
 This is my first encounter with React, so I make no claims that I've found the best implementation, only that it works for me. Many of the issues I encountered are likely to go away within a matter of months.
 
+The interesting file is `scripts/example.tsx`, which compiles to `scripts/example.js`.
+
 Notable issues when doing the tutorial in TypeScript
 ----
 
